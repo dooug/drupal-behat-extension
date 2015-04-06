@@ -1,7 +1,7 @@
 Drupal Behat Extension
 ======================
 
-The commonly used Behat funcitonality used by Promet in Behat testing using Drupal.
+The commonly used Behat functionality used by [Promet Source](https://www.prometsource.com/) in Behat testing using Drupal.
 
 Installation
 ------------
